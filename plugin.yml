@@ -1,0 +1,14 @@
+name: PoorPlugin
+version: 1.0.0
+main: ru.poor.plugin.PoorPlugin
+description: Anti-cheat punishment system
+authors: [ PoorTeam ]
+commands:
+  poor:
+    description: PoorPlugin commands
+    usage: /poor <players|nakaz> [player]
+    permission: poor.admin
+permissions:
+  poor.admin:
+    description: Access to poor commands
+    default: op
