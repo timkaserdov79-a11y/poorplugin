@@ -1,0 +1,13 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+target/
+.classpath
+.project
+.settings/
+*.class
+*.jar
+*.zip
+.DS_Store
+dependency-reduced-pom.xml
